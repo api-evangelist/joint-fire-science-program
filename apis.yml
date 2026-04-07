@@ -5,8 +5,7 @@ url: >2-
 apis:
   - aid: joint-fire-science-program:joint-fire-science-program
     name: Joint Fire Science Program
-    tags:
-      - API
+    tags: []
     humanURL: https://www.firescience.gov
     properties:
       - url: https://www.firescience.gov
