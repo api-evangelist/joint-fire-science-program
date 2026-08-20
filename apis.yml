@@ -24,6 +24,12 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/joint-fire-science-program.png
 tags:
+  - Federal-Government
+  - Fire Science
+  - Fires
+  - Wildfire
+  - Research
+tags_raw:
   - Federal Government
   - Fire Science
   - Fires
