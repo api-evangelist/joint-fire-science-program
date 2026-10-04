@@ -35,7 +35,7 @@ position: Consuming
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/joint-fire-science-program.png
 tags:
-  - Federal-Government
+  - Federal Government
   - Fire Science
   - Fires
   - Wildfire
@@ -46,6 +46,7 @@ tags_raw:
   - Fires
   - Wildfire
   - Research
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-04-28'
 url: >-
