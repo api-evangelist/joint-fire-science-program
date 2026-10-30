@@ -1,4 +1,4 @@
-# Joint Fire Science Program (joint-fire-science-program)
+# Joint Fire Science Program
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,36 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Joint Fire Science Program (JFSP) funds scientific research on wildland fires and distributes results to help policymakers, fire managers and practitioners make sound decisions. Operated jointly by the U.S. Departments of the Interior and Agriculture, JFSP coordinates the Fire Science Exchange Network across regional knowledge nodes.
+The Joint Fire Science Program (JFSP) funds scientific research on wildland fires and distributes results to help policymakers, fire managers and practitioners make sound decisions. Operated jointly by the U.S. Departments of the Interior and Agriculture, JFSP coordinates the Fire Science Exchange Network across regional knowledge nodes. JFSP does not publish a self-service developer portal or OpenAPI; research outputs are surfaced through the firescience.gov website.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/joint-fire-science-program/refs/heads/main/apis.yml)
+**Areas:** Federal Government · Fire Science · Fires · Wildfire · Research
 
-## Scope
+## Joint Fire Science Program on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Joint Fire Science Program is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/joint-fire-science-program/](https://apis.io/providers/joint-fire-science-program/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Federal Government, Fire Science, Fires, Wildfire, Research
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Joint Fire Science Program Domain Security](https://apis.io/security/joint-fire-science-program/joint-fire-science-program-domain-security/)
 
-No public self-service developer portal or OpenAPI specification is currently documented for the Joint Fire Science Program. Research outputs and data are surfaced through firescience.gov. Check back for updates.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.firescience.gov/)
 - [Documentation](https://www.firescience.gov/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/joint-fire-science-program/](https://apis.io/providers/joint-fire-science-program/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Joint Fire Science Program: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/joint-fire-science-program/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
